@@ -1,0 +1,8 @@
+name = "SecondQuantization"
+uuid = "6446b1a7-ab68-46af-b346-4af441f9de2b"
+authors = ["chengzhengqian-game <chengzhengqian@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CZQUtils = "5393979c-7b74-4d57-b1f9-20e1c4471d34"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
